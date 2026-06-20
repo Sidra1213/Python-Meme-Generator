@@ -1,3 +1,4 @@
+Meme Generator using Python
 The Meme Generator is a Python-based application that allows users to create custom memes by adding text to images. Users can select or upload an image, enter top and bottom captions, and generate a personalized meme instantly. The project demonstrates the use of Python programming, image processing, and object-oriented concepts to create a fun and interactive application.
 
 This project is designed to provide a simple and user-friendly way of creating memes while showcasing practical implementation of Python libraries such as Pillow for image manipulation.
