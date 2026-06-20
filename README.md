@@ -10,15 +10,18 @@ Generate memes instantly
 Save generated memes
 Simple and user-friendly interface
 Object-Oriented Programming (OOP) implementation
+
 🛠️ Technologies Used
 Python
 Pillow (PIL)
 Tkinter (for GUI, if implemented)
+
 🎯 Learning Objectives
 Understand image processing in Python
 Apply Object-Oriented Programming concepts
 Work with user input and file handling
 Develop a real-world creative application
+
 🚀 Future Enhancements
 Multiple meme templates
 Custom fonts and colors
