@@ -1,0 +1,15 @@
+from PIL import Image, ImageDraw, ImageFont
+
+image = Image.open("meme.jpg")
+
+draw = ImageDraw.Draw(image)
+
+top_text = "WHEN EXAM STARTS"
+bottom_text = "AND YOU KNOW NOTHING"
+
+draw.text((50, 20), top_text, fill="white")
+draw.text((50, 350), bottom_text, fill="white")
+
+image.save("new_meme.jpg")
+
+print("Meme Generated Successfully!")
